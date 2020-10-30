@@ -5,31 +5,31 @@
         "name": "18 Again",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/eighteen_again.jpg",
         "rating": "4.8",
-        "genre": "Drama",
+        "genre": "Drama"
       },
       {
         "name": "Start Up",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/start_up.jpg",
         "rating": "4.9",
-        "genre" : "Romance",
+        "genre" : "Romance"
       },
       {
         "name": "Tale of the Nine Tiled",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/tale_of_the_nine_tailed.jpg",
         "rating": "4.8",
-        "genre" : "Fantasy",
+        "genre" : "Fantasy"
       },
       {
         "name": "Private Lives",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/private_lives.jpg",
         "rating": "4.7",
-        "genre" : "Drama",
+        "genre" : "Drama"
       },
       {
         "name": "Search",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/private_lives.jpg",
         "rating": "4.7",
-        "genre" : "thriller",
+        "genre" : "thriller"
       },
     ],
     "rekomendasi": [
@@ -37,43 +37,43 @@
         "name": "18 Again",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/eighteen_again.jpg",
         "rating": "4.8",
-        "genre": "Drama",
+        "genre": "Drama"
       },
       {
         "name": "Vagabond",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/vagabond.jpg",
         "rating": "4.9",
-        "genre": "Drama",
+        "genre": "Action"
       },
       {
         "name": "Start Up",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/start_up.jpg",
         "rating": "4.9",
-        "genre" : "Romance",
+        "genre" : "Romance"
       },
       {
         "name": "Tale of the Nine Tiled",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/tale_of_the_nine_tailed.jpg",
         "rating": "4.8",
-        "genre" : "Fantasy",
+        "genre" : "Fantasy"
       },
       {
         "name": "Private Lives",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/private_lives.jpg",
         "rating": "4.7",
-        "genre" : "Drama",
+        "genre" : "Drama"
       },
       {
         "name": "Search",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/private_lives.jpg",
         "rating": "4.7",
-        "genre" : "thriller",
+        "genre" : "thriller"
       },
       {
         "name": "More Than Friend",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/more_than_friend.jpg",
         "rating": "4.6",
-        "genre": "Drama",
+        "genre": "Drama"
       },
     ]
   }
