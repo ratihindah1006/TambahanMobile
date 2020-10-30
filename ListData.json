@@ -2,7 +2,7 @@
   {
     "populer": [
       {
-        "name": "18 Again",
+        "name": "Eighteen Again",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/eighteen_again.jpg",
         "rating": "4.8",
         "genre": "Drama"
@@ -30,11 +30,11 @@
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/private_lives.jpg",
         "rating": "4.7",
         "genre" : "thriller"
-      },
+      }
     ],
     "rekomendasi": [
       {
-        "name": "18 Again",
+        "name": "Eighteen Again",
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/eighteen_again.jpg",
         "rating": "4.8",
         "genre": "Drama"
@@ -74,7 +74,7 @@
         "imageUrl": "https://github.com/ratihindah1006/TambahanMobile/blob/master/more_than_friend.jpg",
         "rating": "4.6",
         "genre": "Drama"
-      },
+      }
     ]
   }
 ]
